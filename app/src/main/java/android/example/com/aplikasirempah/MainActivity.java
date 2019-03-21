@@ -10,6 +10,9 @@ import com.example.agug.aplikasirempah.R;
 
 public class MainActivity extends AppCompatActivity {
 
+    //edited by agung riansyah
+    //ini project terbaru
+
         Button GoToNewActivity;
         @Override
         protected void onCreate(Bundle savedInstanceState) {
